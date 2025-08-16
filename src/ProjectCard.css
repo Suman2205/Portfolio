@@ -1,0 +1,79 @@
+.card {
+    margin-right: 0.5rem;
+    padding: 1rem !important;
+    margin-bottom: 1.5rem;
+    border-radius: 1rem !important;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border: none !important;
+    background: aliceblue;
+}
+
+.card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.12);
+}
+.card-body{
+    height: 45%;
+}
+.card-img-top {
+    height: 45% !important;
+    border-radius: 1rem 1rem 0 0 !important;
+    width: 100% !important;
+    object-fit: fill !important;
+    
+}
+.card img{
+    margin: 0 !important;
+
+}
+
+.card-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: black;
+    margin-bottom: 8px;
+}
+
+.card-body p {
+    font-weight: 400 !important;
+    color: #475569;
+    font-size: 0.95rem;
+    line-height: 1.5;
+}
+
+.listing-link {
+    text-decoration: none !important;
+}
+
+.card-img-overlay {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.card-img-overlay:hover {
+    opacity: 0.25;
+    background-color: white;
+}
+.btn{
+    width: fit-content;
+    margin-left: 1rem;
+}
+.btn-primary {
+    background-color: black !important;
+    border: none !important;
+    padding: 8px 14px;
+    font-size: 0.9rem;
+    border-radius: 6px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+    background-color: rgb(48, 46, 46) !important;
+}
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+.homeImg{
+    padding: 2rem;
+    overflow: hidden;
+}
+.homeImg img{
+    object-fit:cover;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+}
+/* @media (max-width: 400px) {
+  .homeImg{
+    display: block;
+  }
+} */

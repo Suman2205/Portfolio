@@ -1,0 +1,23 @@
+.homeContent{
+    padding: 3rem;
+    font-size: medium;
+}
+.f-info-socials i {
+    font-size: 20px;
+    margin: 0 8px;
+    color: black;
+    transition: color 0.3s;
+    cursor: pointer;
+}
+
+.f-info-socials .fa-linkedin:hover{
+    color: #1761d1; /* Bootstrap primary blue on hover */
+}
+.f-info-socials .fa-square-instagram:hover{
+    color: hotpink; /* Bootstrap primary blue on hover */
+}
+@media (max-width: 400px) {
+  .homeContent{
+    padding: 5px;
+  }
+}

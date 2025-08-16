@@ -1,0 +1,13 @@
+.educationItem{
+    text-align: start;
+}
+.educationItem .card{
+    background-color: aliceblue !important;
+}
+.card-subtitle{
+    color: #3580F4 !important;
+    font-size: 18px;
+}
+.card-title{
+    font-size: 20px;
+}

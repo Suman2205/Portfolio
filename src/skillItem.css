@@ -1,0 +1,28 @@
+.skillItemImg{
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.skillItemImg img{
+    margin: 4px;
+    height: 1.5rem;
+    width: 1.5rem;
+    object-fit: cover;
+}
+.skillItemImg h6{
+    margin-bottom: 0 !important;
+}
+.skillItem{
+    height: 2rem;
+    width: 8rem;
+    border-radius: 20px;
+    border: 1px solid rgb(33, 33, 33);
+    text-align: center;
+    padding: 0 !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px;
+    margin-bottom: 10px;
+}

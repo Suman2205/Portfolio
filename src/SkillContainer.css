@@ -1,0 +1,16 @@
+.row{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+.skillContainer{
+    height: 13rem;
+    padding: 10px;
+    padding-top: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 10px;
+}
+.card{
+    padding: 10px !important;
+}
