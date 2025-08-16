@@ -1,6 +1,6 @@
 export default function CertificateItem(){
     return(
-        <div className="col" style={{padding:'1.5rem'}}>
+        <div className="col" style={{padding:'1rem'}}>
             <div class="card" style={{backgroundColor:'aliceblue'}}>
                 <div class="card-body">
                     <h3 className="card-title">Full Stack Web Developer</h3>
