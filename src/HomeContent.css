@@ -16,6 +16,9 @@
 .f-info-socials .fa-square-instagram:hover{
     color: hotpink; /* Bootstrap primary blue on hover */
 }
+.f-info-socials .fa-github:hover{
+  color: black;
+}
 @media (max-width: 400px) {
   .homeContent{
     padding: 5px;
