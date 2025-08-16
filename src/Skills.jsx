@@ -17,7 +17,7 @@ export default function Skill(){
         <div id="skills" className="skill">
             <h2>Skills & Technologies</h2>
             <h5 style={{opacity:0.8}}>Here are the technologies and tools I work to bring ideas to life</h5>
-            <div className="row row-cols-lg-3 row-cols-md-1 row-cols-sm-1">
+            <div className="row row-cols-lg-3 row-cols-md-1 row-cols-sm-1" style={{padding:'1.5rem'}}>
                 {
                     fields.map((field,index)=>(<SkillContainer key={index} field={field} heading={headings[index]}></SkillContainer>))
                 }
