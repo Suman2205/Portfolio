@@ -7,7 +7,7 @@ export default function CertificateItem(){
                     <h5 className="card-subtitle mb-2 text-body-secondary">Apna College</h5>
                     <h6><i className="fa-regular fa-calendar"></i>&nbsp;Aug 2025</h6>
                 </div>
-                <img src="certificate.png" className="card-img-top" alt="certificate"/>
+                <img src="/certificate.png" className="card-img-top" alt="certificate"/>
             </div>
         </div>
     )
