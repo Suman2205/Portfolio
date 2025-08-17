@@ -20,7 +20,7 @@
     height: 45% !important;
     border-radius: 1rem 1rem 0 0 !important;
     width: 100% !important;
-    object-fit: cover !important;
+    object-fit: fill !important;
     
 }
 .card img{
