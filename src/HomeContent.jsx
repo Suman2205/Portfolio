@@ -9,7 +9,7 @@ export default function HomeContent(){
                 <a href="https://github.com/Suman2205" target="_blank" style={{marginRight:'1rem'}}><img src='/github.png' style={{height: "1.5rem",width: "1.5rem",objectFit: "cover"}}></img></a>
                 <a href="https://www.instagram.com/be_genuine_one" target="_blank" style={{marginRight:'1rem'}}><img src='/instagram.png' style={{height: "1.5rem",width: "1.5rem",objectFit: "cover"}}></img></a>
                 <a href="https://www.linkedin.com/in/suman-mondal-197a5831b/" target="_blank" style={{marginRight:'1rem'}}><img src='/linked.png' style={{height: "1.5rem",width: "1.5rem",objectFit: "cover"}}></img></a>
-                <a href="https://leetcode.com/u/sumon_22_125" target="_blank" style={{marginRight:'1rem'}}><img src='/leetcode.png' style={{height: "1.5rem",width: "1.5rem",objectFit: "cover"}}></img></a>
+                <a href="https://leetcode.com/sumon_22_12/" target="_blank" style={{marginRight:'1rem'}}><img src='/leetcode.png' style={{height: "1.5rem",width: "1.5rem",objectFit: "cover"}}></img></a>
             </div>
         </div>
     )
