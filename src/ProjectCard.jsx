@@ -8,7 +8,7 @@ export default function ProjectCard({imgLink,title,content,link}){
                     <h5 className="card-title">{title}</h5>
                     <p className="card-text">{content}</p>
                 </div>
-                <a href={link} style={{textDecoration:'none', margin:'1rem'}}><i class="fa-solid fa-up-right-from-square"></i>&nbsp;Live Demo</a>
+                <a href={link} target='_blank' style={{textDecoration:'none', margin:'1rem'}}><i class="fa-solid fa-up-right-from-square"></i>&nbsp;Live Demo</a>
             </div>
         </div>
     )
